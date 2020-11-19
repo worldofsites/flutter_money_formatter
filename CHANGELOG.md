@@ -1,4 +1,9 @@
 # Version 0.8.*
+* ## [0.8.5]
+    * **[FIX]**
+        - Upgrade Intl version from ^0.16.0 to ^0.17.0-nullsafety.2
+
+
 * ## [0.8.4]
     * **[FIX] : By [Anis Alibegić](https://github.com/anisalibegic)**
         - Upgrade Intl version
